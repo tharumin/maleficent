@@ -1,6 +1,6 @@
 {
   "name": "maleficent-bot",
-  "version": "9.0.7",
+  "version": "9.0.8",
   "description": "Bot Wea Simple Mudah Di Gunakan ",
   "main": "index.js",
   "directories": {
@@ -24,7 +24,7 @@
     "fluent-ffmpeg": "^2.1.1",
     "form-data": "^4.0.0",
     "google-tts-api": "2.0.2",
-    "utils-mf": "^9.0.7",
+    "utils-mf": "^9.0.8",
     "human-readable": "^0.2.1",
     "jimp": "^0.16.2",
     "moment-timezone": "^0.5.34",
